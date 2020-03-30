@@ -1,3 +1,1 @@
 TST 02
-Reset Hard
-Reset Power
